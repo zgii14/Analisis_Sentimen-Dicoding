@@ -10,7 +10,7 @@ Proyek ini merupakan implementasi pipeline lengkap untuk klasifikasi sentimen ul
   
 ├── Scrapping_Data.ipynb
 
-├── Modelling.ipynb    
+├── Modelling Analisis Sentimen.ipynb    
 
 ├── Inference.ipynb  
 
@@ -42,7 +42,7 @@ Proyek ini merupakan implementasi pipeline lengkap untuk klasifikasi sentimen ul
 
 3. Jalankan notebook sesuai urutan:
     - Scrapping_Data.ipynb
-    - Modelling.ipynb
+    - Modelling Analisis Sentimen.ipynb
     - Inference.ipynb
   
 **zgii14**
