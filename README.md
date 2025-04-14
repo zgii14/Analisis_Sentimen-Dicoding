@@ -7,9 +7,13 @@ Proyek ini merupakan implementasi pipeline lengkap untuk klasifikasi sentimen ul
 ├──Data
   ├── preprocessed_mobile_legends_reviews.csv 
   ├── df_ml.csv  
+  
 ├── Scrapping_Data.ipynb
-├── Modelling.ipynb                
-├── Inference.ipynb                  
+
+├── Modelling.ipynb    
+
+├── Inference.ipynb  
+
 ├── requirements.txt                 
 
 
