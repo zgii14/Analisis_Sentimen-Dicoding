@@ -4,9 +4,10 @@ Proyek ini merupakan implementasi pipeline lengkap untuk klasifikasi sentimen ul
 
 ## Struktur Proyek
 
-├── Scrapping_Data.ipynb           
-├── preprocessed_mobile_legends_reviews.csv 
-├── df_ml.csv                 
+├──Data
+  ├── preprocessed_mobile_legends_reviews.csv 
+  ├── df_ml.csv  
+├── Scrapping_Data.ipynb
 ├── Modelling.ipynb                
 ├── Inference.ipynb                  
 ├── requirements.txt                 
